@@ -8,6 +8,7 @@ After completing the course, I got a good understanding of basic python concepts
 I have installed Python 3.10.2 and PyCharm Community Edition.
 
 Python Download link: https://www.python.org/downloads/
+
 PyCharm Download link: https://www.jetbrains.com/pycharm/download/#section=mac
 
 I have created all the programs which are taught in this course.
